@@ -1,14 +1,3 @@
-# flow-module-template
+# flow-install-dev
 
-A modular approach to extending flow-cli.
-
-## Test this repository
-
-You can add this module by running the following command:
-
-```bash
-flow module add xtrm-en/flow-module-template
-```
-
-It will be automatically cloned and registered.
-
+Fast reinstaller for flow-cli in dev-env
