@@ -1,3 +1,4 @@
-from flow.utils import log
+from flow.config import get_config
 
-print("Imported flow-module-template")
+config = get_config(default=True)
+config["flow_install_dir"] = ""
